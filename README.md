@@ -9,9 +9,9 @@ An android app that supports patients, doctors, and stakeholders on various kind
 Group 13 (James collaborated with other three team members)
 
 ## Overview
-<dt>Tools: Eclipsed featured with ADT plugin, Adobe Photoshop, draw.io</dt>
-<dt>API: 21</dt>
-<dt>Development method: Utilized Agile method to iteratively deploy functionalities of application</dt>
+<dt>- Tools: Eclipsed featured with ADT plugin, Adobe Photoshop, draw.io</dt>
+<dt>- API: 21</dt>
+<dt>- Development method: Utilized Agile method to iteratively deploy functionalities of application</dt>
 
 ### Features
 <dt>- Patient is able to check the availability of each doctor in clinic</dt>
